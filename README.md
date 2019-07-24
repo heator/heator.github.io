@@ -127,14 +127,14 @@ You can easily get started by modifying _config.yml
 
 ```
 # Site settings
-title: '廖柯宇的独立博客' # 你的博客网站标题
+title: '张乾元的独立博客' # 你的博客网站标题
 description: '很高兴能在这里与你分享我对技术和生活的思考。' # 站点描述
-keyword: '廖柯宇, 廖柯宇的独立博客, 前端, 设计' # 网站关键词
+keyword: '张乾元的独立博客' # 网站关键词
 url: 'http://liaokeyu.com' # 站点url
 baseurl: ''
 
 # Build settings
-paginate: 6 # 一页放几篇文章
+paginate: 8 # 一页放几篇文章
 paginate_path: 'page:num'
 ```
 
@@ -147,12 +147,12 @@ paginate_path: 'page:num'
 ```
 ---
 layout: post
-title: 'H2O theme for Jekyll'
-subtitle: '或许是最漂亮的Jekyll主题'
-date: 2017-04-18
+title: '黑夜给了我黑色的眼睛，我却用它寻找光明'
+subtitle: ''
+date: 2019-07-23
 categories: 技术
-cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-theme-h2o-postcover.jpg'
-tags: jekyll 前端开发 设计
+cover: 'https://github.com/heator/heator.github.io/blob/master/assets/img/hero.jpg'
+tags: 算法
 ---
 ```
 
